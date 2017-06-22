@@ -1,0 +1,24 @@
+{
+  "name": "genlangfile",
+  "version": "1.0.0",
+  "description": "Generates language files for site47 Projects",
+  "main": "genlangfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentduprez/genLangFile.git"
+  },
+  "author": "Vincent Duprez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentduprez/genLangFile/issues"
+  },
+  "homepage": "https://github.com/vincentduprez/genLangFile#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
