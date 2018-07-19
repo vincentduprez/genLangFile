@@ -18,7 +18,7 @@ console.log('Starting GenLangFile');
 
 
 
-    answer = "french,dutch,english";
+    answer = "english,french,spanish,italian,german";
     console.log(answer);
     var languages = answer.toString().split(',');
     var csvline = Array(languages.length+1).fill('""');
